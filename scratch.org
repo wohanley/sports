@@ -1,0 +1,43 @@
+* Modifiers
+** Units
+*** n%
+*** n times
+** Arena
+*** Home/away
+*** Age
+** Players
+** Environment
+*** Season
+"in summer"
+*** Biome
+*** Weather
+"on cloudy days"
+"during rain"
+"when atmospheric pressure exceeds n kPa"
+**** Alerts
+Frost
+Flood
+Lightning
+Severe snow
+**** Parameters
+Condition (clouds, sun, etc)
+Temperature
+Pressure
+Wind speed
+Humidity
+Dewpoint
+Visibility
+*** Astronomical
+"within n days of a (full|new) moon"
+"during meteor showers"
+"while sunspot activity is high"
+** Time
+*** Date
+Not exact, something like "the nth of the month"
+"in months with n days"
+"in years ending in odd numbers"
+*** Day
+*** Hour
+*** Before (earlier than) / between / after (later than)
+"The Jackals scored three goals between 9:00 and 9:30" - NOT this, requires different conjugation
+"The Jackals score /more/ goals between 9:00 and 9:30"

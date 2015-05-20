@@ -1,0 +1,6 @@
+target/
+project/target/
+.ensime*
+.env
+env.sh
+*.pyc
